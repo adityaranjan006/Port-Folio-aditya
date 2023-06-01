@@ -40,7 +40,7 @@ const About = () => {
       <motion.p
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       variants={fadeIn("","",0.1,1)}>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id aliquam quisquam mollitia libero iste tenetur doloribus possimus autem. Similique harum modi necessitatibus. Consectetur, ut pariatur possimus suscipit aliquam non, placeat delectus eum reprehenderit quos ducimus ea. Ad, ipsa maxime illo esse ullam, neque perspiciatis veniam minima dolores ipsam aspernatur ab mollitia nemo eligendi animi velit, tempore sunt eveniet laboriosam laudantium quisquam a adipisci. Tempora nostrum quos perspiciatis asperiores magni tenetur, repudiandae assumenda deleniti magnam sequi molestiae voluptate voluptas doloribus aspernaturtae ipsum natus? Optio provident quibusdam nobis!
+          I'm Aditya Ranjan, a passionate and ambitious technologist focused on continuous improvement. With expertise in web development, my goal is to create practical and innovative solutions to real-world problems. I have a strong passion for technology, staying up-to-date with the latest trends and advancements. Collaboration and effective communication are my strengths, and I thrive in team environments. I aim to make a positive impact by leveraging my skills to develop solutions that benefit society. Join me on this journey of learning, growth, and driving innovation in the ever-evolving tech landscape.
       </motion.p>
       {/* cards about section mapping used in service */}
       <div className="mt-10 flex flex-wrap gap-10">
