@@ -54,7 +54,7 @@ const ComputersCanvas = () => {
     };
   }, []);
 
-  return (isMobile? (
+  return (
     <Canvas
       frameloop='demand'
       shadows
@@ -72,7 +72,7 @@ const ComputersCanvas = () => {
       </Suspense>
 
       <Preload all />
-    </Canvas>):<p>"Hello there Exited to see you !!"<p>);
+    </Canvas>);
 };
 
 export default ComputersCanvas;
