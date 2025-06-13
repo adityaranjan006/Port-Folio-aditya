@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
         <div className={`${styles.heroHeadText} text-white`}>
           <motion.h1 className={textVariant()}
-          >Hi, I'm<span className="text-[#915eff]"> ADARSH M</span></motion.h1>
+          >Hi, I'm<span className="text-[#915eff]"> ADITYA RANJAN</span></motion.h1>
           <p className={`${styles.heroSubText} text-[#fbfafe]`}>Learning by making projects . . .</p>
         </div>
       </div>
